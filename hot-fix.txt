@@ -1,0 +1,13 @@
+Hotfix Version: 1.0.1
+Date: 2023-10-05
+Author: Meghn
+
+Description:
+- Fixed a critical bug causing the application to crash on startup.
+- Improved error handling for network requests.
+- Updated dependencies to the latest versions for better security and performance.
+
+Testing:
+- Verified that the application no longer crashes on startup.
+- Tested network requests to ensure proper error handling.
+- Confirmed that all unit tests pass with the updated dependencies.
